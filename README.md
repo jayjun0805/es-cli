@@ -6,7 +6,7 @@ A simple CLI for ES
 ### Install
 
 ```shell
-npm install es-cli -g
+npm install learn-es-cli -g
 ```
 
 ### Usage

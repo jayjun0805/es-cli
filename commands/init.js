@@ -29,7 +29,7 @@ const question = [{
 module.exports = prompt(question).then(({
     project
 }) => {
-    const spinner = ora('Downloading es-cli...')
+    const spinner = ora('Downloading learn-es-cli...')
 
     spinner.start()
 
