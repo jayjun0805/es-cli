@@ -1,6 +1,6 @@
 {
   "name": "es-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple CLI for ES",
   "bin": {
     "imooc-es-cli": "./bin/index.js"
@@ -14,7 +14,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "imooc",
     "es",
     "cli"
   ],
