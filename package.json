@@ -1,5 +1,5 @@
 {
-  "name": "es-cli",
+  "name": "learn-es-cli",
   "version": "1.0.0",
   "description": "A simple CLI for ES",
   "bin": {
