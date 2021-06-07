@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A simple CLI for ES",
   "bin": {
-    "learn-es-cli": "./bin/index.js"
+    "learn-es-cli": "bin/index.js"
   },
   "main": "bin/index.js",
   "repository": {
