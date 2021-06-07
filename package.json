@@ -22,7 +22,7 @@
   "license": "MIT",
   "homepage": "https://vue.moocba.com",
   "bugs": {
-    "url": "https://github.com/jayjun0805/es-cli"
+    "url": "https://github.com/jayjun0805/es-cli/issues"
   },
   "dependencies": {
     "chalk": "^3.0.0",
