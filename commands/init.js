@@ -33,7 +33,7 @@ module.exports = prompt(question).then(({
 
     spinner.start()
 
-    download(`github:jayjun0805/learn-es-parser`, `./${project}`, (err) => {
+    download('github:jayjun0805/learn-es-parser#master', `./${project}`, (err) => {
         if (err) {
             console.log(chalk.red(err))
             process.exit()
