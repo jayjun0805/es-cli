@@ -8,7 +8,7 @@
   "main": "bin/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jayjun0805/learn-es-cli"
+    "url": "git+https://github.com/jayjun0805/learn-es-cli.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
