@@ -1,4 +1,4 @@
-# es-cli
+# learn-es-cli
 A simple CLI for ES
 
 ## Getting Started
@@ -12,7 +12,7 @@ npm install learn-es-cli -g
 ### Usage
 
 ```
-Usage: es-cli <command>
+Usage: learn-es-cli <command>
 
 
   Commands:
