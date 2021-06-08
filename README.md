@@ -17,7 +17,7 @@ Usage: learn-es-cli <command>
 
   Commands:
 
-    init|i     Generate a new project
+    init, i     Generate a new project
 
   Options:
 
